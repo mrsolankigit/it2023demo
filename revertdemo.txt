@@ -1,3 +1,1 @@
 This is first statement in revert demo file.
-
-Second statement for revertdemo.txt
